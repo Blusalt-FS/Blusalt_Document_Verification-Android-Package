@@ -51,7 +51,7 @@ android{
 
 
 dependencies{
-    implementation 'net.blusalt:document_identity_verification:1.0-1'
+    implementation 'net.blusalt:identity_document_verification:1.0-1'
 }
 ```
 
